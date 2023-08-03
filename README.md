@@ -64,3 +64,4 @@ model file: https://drive.google.com/file/d/1kRZxtIEJ0f9bjzTUVZ4PPYLgu6AFJt3r/vi
 16. The first 'cow' refers to which set of images in the test folder you are choosing from. 'images700.jpg' is the image you are classifying in the set of images you chose. Finally, 'cow.jpg' is the name of the image that will be exported once the model finishes classifying it.
 
 watch video demostration here: 
+https://youtu.be/QXgGew_Ip-A
